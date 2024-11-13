@@ -1,7 +1,7 @@
 aniso8601==8.1.1
 asgiref==3.3.1
 attrs==20.3.0
-aws-login-tool==3.1.40
+#aws-login-tool==3.1.40
 awscli==1.18.218
 beautifulsoup4==4.9.3
 boto3==1.16.58
@@ -12,7 +12,7 @@ chardet==4.0.0
 click==7.1.2
 colorama==0.4.3
 cryptography==3.3.1
-Django==3.1.5
+Django==4.0.4
 django-cors-headers==3.7.0
 djangorestframework==3.12.2
 docutils==0.15.2

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Backend Boilerplate Django
 
 A backbone for your coding challenge.
@@ -55,3 +56,7 @@ npm run test # run project tests under `cypress/integration`
 Made by [DevSkills](https://devskills.co).
 
 Did you find this repo useful? **Give us a shout on [Twitter](https://twitter.com/DevSkillsHQ) / [LinkedIn](https://www.linkedin.com/company/devskills)**.
+=======
+# cheki
+A web service to view transaction history 
+>>>>>>> 09864d8a64e97157e21b4f8b97766ac8fe13b7c7

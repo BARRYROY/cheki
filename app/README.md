@@ -1,8 +1,5 @@
-# Backend Boilerplate Python Django
-
-## Project Code
-
-The project code is located under `app-backend/`.
+# cheki
+A web service to view transaction history 
 
 ## Getting started
 
@@ -19,3 +16,4 @@ pip3 install -r requirements.txt && python3 manage.py migrate
 ```bash
 python3 manage.py runserver
 ```
+
