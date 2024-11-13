@@ -59,4 +59,24 @@ Did you find this repo useful? **Give us a shout on [Twitter](https://twitter.co
 =======
 # cheki
 A web service to view transaction history 
+<<<<<<< HEAD
 >>>>>>> 09864d8a64e97157e21b4f8b97766ac8fe13b7c7
+=======
+
+## Getting started
+
+1. Make sure [`python3`](https://www.python.org/downloads/) and [`pip3`](https://pip.pypa.io/en/stable/installing/) are installed on your local env.
+
+2. Build your app.
+
+```bash
+pip3 install -r requirements.txt && python3 manage.py migrate
+```
+
+3. Start your app.
+
+```bash
+python3 manage.py runserver
+```
+
+>>>>>>> b6fddeee2a82ec4d570f199fcb403b7755200c08
